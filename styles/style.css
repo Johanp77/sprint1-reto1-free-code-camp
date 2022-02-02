@@ -1,0 +1,63 @@
+.body{
+    font-family: 'Barlow', sans-serif;
+    background-color:#f5f1f1;
+}
+
+.SubTituloCentrado{
+    font-size:25px;
+}
+.TituloCentrado, .SubTituloCentrado, .Titulo2, .Listas{
+    text-align: center;
+}
+li{
+    max-width: 550px;
+
+    margin: 0 auto 50px
+    auto;
+
+    text-align: left;
+    line-height: 1.6;
+}
+.TituloCentrado{
+    color: rgb(48, 40, 26);
+}
+
+.container{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border:5px solid black;
+    padding: 20px;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2);
+
+
+}
+
+.ImagenKant {
+    max-width: 50%;
+    display: block;
+    width: 25%;
+    }
+
+    
+
+    .caption1 {
+        
+    display: block;
+
+    }
+
+
+.Listas{
+    font-size: 25px;
+}
+
+.link{
+    font-family: 'Barlow', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    align-content: center;
+}
+
